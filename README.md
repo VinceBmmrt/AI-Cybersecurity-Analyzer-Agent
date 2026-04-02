@@ -20,6 +20,12 @@ L'**AI Cybersecurity Analyzer** est une application web full-stack alimentée pa
 - **Infrastructure as Code** : Terraform
 - **Plateformes Cloud** : Microsoft Azure & Google Cloud Platform
 
+## 🚀 Application en ligne / Live Demo
+
+L'application est déployée et accessible publiquement sur Google Cloud Run :
+
+🔗 **[https://cyber-analyzer-orlod5reua-uc.a.run.app/](https://cyber-analyzer-orlod5reua-uc.a.run.app/)**
+
 ### Ce qui a été construit et déployé
 
 ✅ Mise en place du projet Cybersecurity Analyzer  
